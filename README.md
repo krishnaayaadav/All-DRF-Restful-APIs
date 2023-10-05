@@ -9,8 +9,8 @@ API Testing: In this face thoroughly testing all API endpoints along with model 
 
 API Documentation Using Swagger: in this face: creating API documentation to enable other developers to use our API, to get the idea that what request is needed and response from the servers.
 
-Live AT: https://restfulcrudapi.pythonanywhere.com/expense/api/docs/
-         https://restfulcrudapi.pythonanywhere.com/expense/api/documentation/
+### Live at:  https://restfulcrudapi.pythonanywhere.com/expense/api/docs/
+              https://restfulcrudapi.pythonanywhere.com/expense/api/documentation/
 
 # Restful Media-Handler API
 
@@ -21,7 +21,7 @@ Live AT: https://restfulcrudapi.pythonanywhere.com/expense/api/docs/
 ## Features : 
 Restful API to work with different media files such as Images, Videos, Audios , PDF files etc. This project contains differnt api endpoints to get all audios,videos pdf or get single items, update particular media files or delete it contains all crud endpoints to perform insertion,read update , delete
 
-Live At: https://mediahandlerapi.pythonanywhere.com/api/docs/
+### Live at: https://mediahandlerapi.pythonanywhere.com/api/docs/
 
 # JWT Authentication API With Email Verification
 
@@ -32,7 +32,39 @@ email verification   account activation   login dashbaord, change password, get 
 Live At: http://jwtauthapi.pythonanywhere.com
 
 
+# eCommerce Restful API Using DRF
+
+![eCommerce API ](https://github.com/krishnasky821/All-DRF-Restful-APIs/assets/123397686/167fbd2a-bf5b-49ce-a2fe-229cc8739b06)
 
 
+## Features: 
+Product list:                To get products list to display on the homepage
+       Product Detail:              To fetch detail page of a particular product
+       Product Gallery Images:      To provide addition gallery images of current products
+       Get Similar Products:        By using these we can get similar products
+       Get Trending Products:       Which are most trending now
+       Product Filters:             Filter by product category, filter by brand,colors
+       For Complex Searching:       We have a custom endpoint to perform complex search to search using particular keyword price, title, brand, ratings, description
 
-## Features : registeration   email verification   account activation   login dashbaord, change password, get user profile, update profile,  change forget pasword with email verifcation more
+       Get Categories And Brands:   To get all categories
+       Get Users Cart,WishList:     Get User Cart and WishList,
+       Add to Cart or Whishlist:    Add product in user carts or in whishlist
+       Update Cart:                 Update existing user cart like increasing/decreasing quantities 
+       Remove Cart Whishlist:       By Using that user can also remove/delete their existing cart
+       Add or Update Address:       User can add their address, update existing oneces
+       Get All User Address:        Users can they all address
+       Make Orders:                 By Using that user can make an order
+       Add Review and Ratings:      Rating and  Reviews 
+       User orders:                 By using that we can get user orders, check order status
+
+### Live at: https://restfulecommerceapi.pythonanywhere.com/
+
+# Restful Blog Portal API + DRf
+
+![Blog Portal API](https://github.com/krishnasky821/All-DRF-Restful-APIs/assets/123397686/27c3a64c-cd40-4527-843d-41c913df381f)
+
+## Features: 
+Restful Blog Portal API features: get all blogs, get blog detail page, get similar blogs, filter blogs by category, tags,author etc. Complex blog search api, comments systems with Authentication api to authenticated users, user dashboard, get user profile, update user profile, change password, reset forgetted password more.
+
+###Live at: http://blogsapi.pythonanywhere.com/blogs/api/documentation
+
