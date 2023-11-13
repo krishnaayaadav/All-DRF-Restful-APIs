@@ -1,4 +1,4 @@
-# Django Restful CRUD API
+# Django Restful CRUD API With Swagger Docs
 ![Restful Crud API](https://github.com/krishnasky821/All-DRF-Restful-APIs/assets/123397686/3f439442-0b72-4605-bf59-e44f49e3f553)
 
 
