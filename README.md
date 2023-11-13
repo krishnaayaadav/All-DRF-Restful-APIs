@@ -9,7 +9,7 @@ API Testing: In this face thoroughly testing all API endpoints along with model 
 
 API Documentation Using Swagger: in this face: creating API documentation to enable other developers to use our API, to get the idea that what request is needed and response from the servers.
 
-### Live at:  https://restfulcrudapi.pythonanywhere.com/expense/api/docs/
+### Live at:  https://restfulcrudapi.pythonanywhere.com/expense/api/documentation/
               https://restfulcrudapi.pythonanywhere.com/expense/api/documentation/
 
 # Restful Media-Handler API
